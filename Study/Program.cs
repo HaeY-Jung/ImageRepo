@@ -12,6 +12,8 @@ namespace Study //프로젝트 이름으로 네임스페이스 생성됨
         static void Main(string[] args)
         {
             Console.WriteLine("Start");
+            Console.WriteLine("Start");
+            Console.WriteLine("Start");
         }
     }
 }
